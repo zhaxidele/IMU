@@ -151,6 +151,8 @@ BNO055_RETURN_FUNCTION_TYPE bno055_init(struct bno055_t *bno055)
 
 	return com_rslt;
 }
+
+
 /*!
  *	@brief
  *	This API gives data to the given register and
